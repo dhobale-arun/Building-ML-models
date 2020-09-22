@@ -1,2 +1,2 @@
-# Model-Development
-This repository consists of model development 
+# Model Development
+Predicting the prices of cars with Machine Learning packages in R
